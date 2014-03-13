@@ -1,0 +1,7 @@
+#!/bin/sh
+(
+	echo "Starting simple server"
+	echo "--------------------------------"
+	python -m SimpleHTTPServer 4545
+)
+

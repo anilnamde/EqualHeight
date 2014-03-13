@@ -1,0 +1,26 @@
+{
+  "name": "EqualHeight",
+  "version": "1.0.0",
+  "description": "Simple jQuery plugin to set height of the elements to equal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anilnamde/EqualHeight.git"
+  },
+  "keywords": [
+    "EqualHeight"
+  ],
+  "author": "Anil Namde",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "f9d6895d494c74ca30194488a67996faa7bd9910",
+  "devDependencies": {
+    "grunt": "~0.4.4",
+    "grunt-cli": "^0.1.13",
+    "grunt-contrib-uglify": "^0.4.0"
+    
+  }
+}
